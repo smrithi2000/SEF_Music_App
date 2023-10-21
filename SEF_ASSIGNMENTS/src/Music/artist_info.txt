@@ -1,0 +1,16 @@
+Artist ID: 569MMMRR_%
+Birth Date: 06-11-2004
+Address: Melbourne|Victoria|Australia
+Bio: TCTD3:A talented singer-songwriter who is passionate in making new tracks and albums in mellow vibes.
+Occupations: [Singer, Songwriter, Producer, Composer]
+Awards: [2022, Best Composer in the entire world]
+Music Genres: [pop, classical]
+
+Artist ID: 678FFFGG@$
+Birth Date: 18-06-2001
+Address: Sydney|New South Wales|Australia
+Bio: TCTD4: A talented producer, singer-songwriter who loves playing guitar and produces fast-track music for the pop-world..
+Occupations: [Singer, Producer, Songwriter]
+Awards: [2016, Best pop Song of the Year]
+Music Genres: [pop, jazz]
+
